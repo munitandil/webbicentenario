@@ -88,8 +88,7 @@ export default {
     background-color: #1a428b;
     border-radius: 5%;
     color:white !important;
-    min-height: 450px;
-    max-height: 450px;
+    height: 100%;
 }
 .event_date_disenio h6 {
 	display: table-cell;
@@ -145,5 +144,10 @@ export default {
 
 .dsi-img-container img{
   width: 100% ;
+}
+
+.blog_grid li.col-md-4 {
+    height: 430px !important;
+    width: 100% !important;
 }
 </style>

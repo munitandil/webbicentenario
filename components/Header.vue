@@ -1,5 +1,5 @@
 <template>
-   <header class="header_wrap dark_skin hover_menu_style2 col-md-12">
+   <header class="header_wrap dark_skin hover_menu_style2 col-md-12 mb-10">
         <div class="dsi-container">
             <nav class="navbar navbar-expand-lg">
                 <div class="col-lg-4 ">
@@ -148,7 +148,7 @@ export default {
 hr {
       height: 5px;
       /*padding-inline-end:250px ; */
-      margin-right: 100px !important;;
+      margin-right: 0px !important;;
       margin-top:0%;
       width: 400px !important;
       background-color: #0abaee ;

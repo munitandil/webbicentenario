@@ -13,7 +13,7 @@
       </div> 
      </div>     
     </div> -->
-     <section class="pt-0 col-md-12 dsi-vide-bice"> 
+     <section class="pt-0 mt-5 col-md-12 dsi-vide-bice "> 
       <div class="dsi-container"> <!--container020312"> -->
         <div class="row align-items-center">
             <div class="col-md-6 animation" data-animation="fadeInLeft" data-animation-delay="0.1s">
@@ -61,7 +61,7 @@
                 	<div class="titu2">ACTIVIDADES / TRABAJOS</div>
                 </div>
                 <div class="text_1">
-                <p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary</p>
+                <p>El inicio de un nuevo camino. Una historia compartida. Un presente lleno de desafíos. Un futuro pujante. El Bicentenario de Tandil es el punto de partida que encuentra a una comunidad que trabaja de manera conjunta hacia nuevos logros</p>
               </div>
             <!--    <a href="#" class="btn btn-outline-black btn-radius">know More</a>-->
             </div>
@@ -71,31 +71,31 @@
                         <div class="box_counter counter_dark text-center">
                        <!--     <i class="ion-coffee"></i>-->
 								<img src="@/assets/images/ICON-cafe.png"  style="height:15%; width:15%;">
-                            <h3 class="counter_text"><span class="counter">800</span>+</h3>
-                            <p>Simposios</p>
+                            <h3 class="counter_text"><span class="counter">30</span>+</h3>
+                            <p>Dias de Eventos</p>
                         </div>
                     </div>
                     <div class="col-6 couter_border counter_border_black">
                         <div class="box_counter counter_dark text-center">
 							<img src="@/assets/images/ICON-reuniones.png"  style="height:15%; width:15%;">
-                            <h3 class="counter_text"><span class="counter">1700</span></h3>
-                            <p>Reuniones </p>
+                            <h3 class="counter_text"><span class="counter">93</span></h3>
+                            <p>Instituciones en el Acuerdo del bicentenario </p>
                         </div>
                     </div>
                     <div class="col-6 couter_border counter_border_black">
                         <div class="box_counter counter_dark text-center">
                            <!-- <i class="ion-easel"></i>-->
 						   <img src="@/assets/images/ICON-proyectos.png"  style="height:15%; width:15%;">
-                            <h3 class="counter_text"><span class="counter">1200</span>+</h3>
-                            <p>Proyectos </p>
+                            <h3 class="counter_text"><span class="counter">365</span>+</h3>
+                            <p>Dias de Celebración</p>
                         </div>
                     </div>
                     <div class="col-6 couter_border counter_border_black">
                         <div class="box_counter counter_dark text-center">
                            <!-- <i class="ion-android-contacts"></i>-->
 						   	<img src="@/assets/images/ICON-participantes.png"  style="height:15%; width:15%;">
-                            <h3 class="counter_text"><span class="counter">1500</span>+</h3>
-                            <p>Participantes</p>
+                            <h3 class="counter_text"><span class="counter">150162</span>+</h3>
+                            <p>Tandilenses</p>
                         </div>
                     </div>
                 </div>

@@ -217,7 +217,7 @@ elif [ ${TIPODEPLOY} = 'PROD' ]; then
     #chequeo si hay instancias de pm2 'PaginaWebCulturaTandil' corriendo
     #en caso que no haya, corro la aplicacion con el comando pm2 start
     #en caso de que haya alguna instacia, recargo las instancias con el comando pm2 reload all
-    pm2 pid 'PaginaWebBicentenarioTandil' >/dev/null
+    pm2 pid 'PaginaBicentenarioTandil' >/dev/null
     RUNNING=$?
     if [ "${RUNNING}" = 0 ]; then
         pm2 start

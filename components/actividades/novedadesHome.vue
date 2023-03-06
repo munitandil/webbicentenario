@@ -36,12 +36,12 @@
                     </ul>
                    <!-- <div class="border-top border-bottom py-2 mt-4 text-center"> -->
                     <div class="  py-2 mt-4 text-center"> 
-                    <!--  <DSILink
+                      <DSILink
                         pPath="ACTIVIDADES"
                         pTipoLink="I"
-                        pCustomLabel="Ver másiii"
+                        pCustomLabel="Ver más"
                         pClass="btn btn-outline-primary"
-                      /> -->
+                      /> 
                       <!--  <NuxtLink to="/novedades" class="btn btn-outline-primary" >
                                 Ver todas
                         </NuxtLink>  -->
