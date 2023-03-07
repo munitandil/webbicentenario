@@ -21,7 +21,7 @@
         "base-64": "^1.0.0",
         "core-js": "^3.6.5",
         "esm": "^3.2.25",
-        "mdb-vue-ui-kit": "^1.14.0",
+        "node-fs": "^0.1.7",
         "nuxt": "^2.14.6",
         "v-owl-carousel": "^1.0.8",
         "vue-paginate": "^3.6.0",
