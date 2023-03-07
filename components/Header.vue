@@ -156,7 +156,7 @@ hr {
     .cultura_logo {
         height: 15vh;
         width: auto;
-        max-width:285; /* unset !important;*/
+        max-width:350; /* unset !important;*/
         margin-left: 0%;
     }
     .cultura_logob {
