@@ -2,8 +2,8 @@
   <div>
     <Header /> 
    <!-- <BannerPage :beadcrumb="beadcrumbPage" :title="'Novedades Del Bicentenario'"></BannerPage> -->
-    <section class="fond_azulN" >
-      <div class="container ">
+    <section class=" fond_azulN" >
+           <div class="container ">
      <!--  <div class="">
           <label>Filtrar novedades:</label>
           
