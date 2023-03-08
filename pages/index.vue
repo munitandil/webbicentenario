@@ -58,7 +58,7 @@
         <div class="row align-items-center justify-content-center">
         	<div class="col-md-5 text-center text-md-left mb-4 mb-md-0 animation" data-animation="fadeInLeft" data-animation-delay="0.01s">
             	<div class="heading_s3 mb-md-3 text-center text-md-left">
-                	<div class="titu2">ACTIVIDADES / TRABAJOS</div>
+                	<div class="titu2">El inicio de un nuevo camino</div>
                 </div>
                 <div class="text_1">
                 <p>El inicio de un nuevo camino. Una historia compartida. Un presente lleno de desafíos. Un futuro pujante. El Bicentenario de Tandil es el punto de partida que encuentra a una comunidad que trabaja de manera conjunta hacia nuevos logros</p>
@@ -70,16 +70,16 @@
                 	<div class="col-6 couter_border counter_border_black">
                         <div class="box_counter counter_dark text-center">
                        <!--     <i class="ion-coffee"></i>-->
-								<img src="@/assets/images/ICON-cafe.png"  style="height:15%; width:15%;">
+								<img src="@/assets/images/ICON-reuniones.png"  style="height:15%; width:15%;">
                             <h3 class="counter_text"><span class="counter">30</span>+</h3>
                             <p>Dias de Eventos</p>
                         </div>
                     </div>
                     <div class="col-6 couter_border counter_border_black">
                         <div class="box_counter counter_dark text-center">
-							<img src="@/assets/images/ICON-reuniones.png"  style="height:15%; width:15%;">
+							<img src="@/assets/images/ICON-cafe.png"  style="height:15%; width:15%;">
                             <h3 class="counter_text"><span class="counter">93</span></h3>
-                            <p>Instituciones en el Acuerdo del bicentenario </p>
+                            <p>Instituciones en el Acuerdo</p>
                         </div>
                     </div>
                     <div class="col-6 couter_border counter_border_black">
