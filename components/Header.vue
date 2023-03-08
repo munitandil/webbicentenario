@@ -4,7 +4,7 @@
             <nav class="navbar navbar-expand-lg">
                 <div class="col-lg-4 ">
                       <DSILink pClass="navbar-brand" pCustomLabel=" " pPath="WEBTANDIL"  pTipoLink="E" pTitle="Logo de la municipalidad de tandil">
-                        <img class="cultura_logo" src="~assets/images/LOGO_municipio_bic_tru.png" alt="logo" />
+                        <img class="cultura_logo_bc" src="~assets/images/LOGO_municipio_bic_tru.png" alt="logo" />
                      
                       <!--  <img class="logo_default" src="~assets/images/LOGO_municipio_bic.png" alt="logo" /> -->
                      </DSILink>
@@ -85,7 +85,7 @@
                 <div class=" d-lg-flex align-items-left container"> 
                          <DSILink pClass="navbar-brand" pCustomLabel=" " pPath="HOME" pTipoLink="I"
                             pTitle="Logo de la municipalidad de tandil">
-                            <img  class="cultura_logo" src="~assets/images/LOGO_municipio_bic.png" alt="logo" /> 
+                            <img  class="cultura_logo_" src="~assets/images/LOGO_municipio_bic.png" alt="logo" /> 
                          </DSILink>
                          <DSILink pClass="navbar-brand" pCustomLabel=" " pPath="HOME" pTipoLink="I"
                             pTitle="Logo de la municipalidad de tandil">
@@ -153,7 +153,7 @@ hr {
       width: 400px !important;
       background-color: #0abaee ;
     }
-    .cultura_logo {
+    .cultura_logo_bc {
         height: 15vh;
         width: auto;
         max-width:350; /* unset !important;*/
