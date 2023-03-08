@@ -4,8 +4,8 @@
             <nav class="navbar navbar-expand-lg">
                 <div class="col-lg-4 ">
                       <DSILink pClass="navbar-brand" pCustomLabel=" " pPath="WEBTANDIL"  pTipoLink="E" pTitle="Logo de la municipalidad de tandil">
-                        <img class="cultura_logo_bc" src="~assets/images/LOGO_municipio_bic_tru.png" alt="logo" />
-                     
+                        <img class="cultura_logo_c" src="~assets/images/LOGO-municipio-PRU.png" alt="logo" />
+                        
                       <!--  <img class="logo_default" src="~assets/images/LOGO_municipio_bic.png" alt="logo" /> -->
                      </DSILink>
                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="ion-android-menu"></span> </button> 
@@ -153,10 +153,10 @@ hr {
       width: 400px !important;
       background-color: #0abaee ;
     }
-    .cultura_logo_bc {
+    .cultura_logo_c {
         height: 15vh;
-        width: auto;
-        max-width:350; /* unset !important;*/
+        width: 350px !important;
+       /* max-width:550px; */ /* unset !important;*/
         margin-left: 0%;
     }
     .cultura_logob {
