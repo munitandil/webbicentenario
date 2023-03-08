@@ -32,11 +32,9 @@
                   <div class="titu1"> EL BICENTENARIO  </div>
                 </div>
                 <div class="text_1_bicen">
-                <p>La fecha formal es el 4 de abril, pero Tandil vive en todo este 2023 su Bicentenario, sus primeros 200 años.</p>
-                <p>Un hito inmenso en su historia. Un Bicentenario que no es un punto de llegada sino, por el contrario, el inicio de un renovado tiempo para Tandil, el comienzo del futuro. </p>
-                <p>En este tiempo toda la comunidad merece celebrar y compartir la historia, los logros, el esfuerzo colectivo y los proyectos y anhelos pendientes hacia adelante, para construir el Tandil de las próximas décadas que se levantará sobre las bases del presente. </p>
-                <p>Recordemos juntos el Tandil del pasado que sentó las bases, el presente que recorremos lleno de actividades para celebrar y el futuro que todos construiremos.</p>
-                <p> Caminemos juntos. </p>
+                <p>La fecha formal es el 4 de abril, pero Tandil vive en todo este 2023 su Bicentenario, sus primeros 200 años.</p><p> Un hito inmenso en nuestra historia.</p><p> 
+En este tiempo toda la comunidad merece celebrar y compartir la historia, los logros, el esfuerzo colectivo y los proyectos y anhelos hacia adelante, para construir el Tandil que se levantará sobre las bases del presente por el que trabajamos en el Acuerdo del Bicentenario.</p>
+<p>Recordemos juntos el Tandil del pasado que sentó las bases, el presente que recorremos lleno de actividades para celebrar y el futuro que todos construiremos. Caminemos juntos.</p>
               </div>
               <!--  <a href="demo-consultancy/about.html"> por ahora-->
 				
