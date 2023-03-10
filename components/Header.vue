@@ -2,20 +2,21 @@
    <header class="header_wrap dark_skin hover_menu_style2 col-md-12 mb-10">
         <div class="dsi-container">
             <nav class="navbar navbar-expand-lg">
-                <div class="col-lg-4 ">
+                <div class="col-lg-5 ">
                       <DSILink pClass="navbar-brand" pCustomLabel=" " pPath="WEBTANDIL"  pTipoLink="E" pTitle="Logo de la municipalidad de tandil">
-                        <img class="cultura_logo_c" src="~assets/images/LOGO-municipio-PRU.png" alt="logo" />
+                        <img class="logo_c" src="~assets/images/LOGO_municipio_bic_tru.png" alt="logo" />
                         
+                        <!--src="~assets/images/LOGO_municipio_bic.png" -->
                       <!--  <img class="logo_default" src="~assets/images/LOGO_municipio_bic.png" alt="logo" /> -->
                      </DSILink>
                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="ion-android-menu"></span> </button> 
                     <DSILink pClass="navbar-brand" pCustomLabel=" " pPath="HOME" pTipoLink="I" pTitle="Logo de la municipalidad de tandil">
-                        <img class="logo_dark" src="~assets/images/LOGO-bicentenario.png" alt="logo" />
-                        <img class="cultura_logob" src="~assets/images/LOGO-bicentenario.png" alt="logo" />
+                   <!--    <img class="logo_dark" src="~assets/images/LOGO-bicentenario.png" alt="logo" /> -->
+                        <img class="logob" src="~assets/images/LOGO-bicentenario.png" alt="logo" />
                      </DSILink>
                    
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-7">
                     <div class="col-md-12 dsi-top-header border-0 light_skin d-none d-md-block">
                         <div class="container">
                             <div class="row align-items-right">
@@ -145,7 +146,7 @@ export default {
 .custom-cultura-nav-link>* {
     color: #4f17c0 !important;
 }
-hr {
+.hr {
       height: 5px;
       /*padding-inline-end:250px ; */
       margin-right: 0px !important;;
@@ -153,17 +154,17 @@ hr {
       width: 400px !important;
       background-color: #0abaee ;
     }
-    .cultura_logo_c {
-        height: 15vh;
-        width: 350px !important;
-       /* max-width:550px; */ /* unset !important;*/
-        margin-left: 0%;
+    .logo_c {
+        height: 14vh!important; 
+        width: auto !important;
+        max-width:300px!important;
+        margin-left: 0%!important;
     }
-    .cultura_logob {
-        height: 15vh;
-        width: auto;
-        max-width: 150; /*unset !important;*/
-        margin-left: 0%;
+    .logob {
+        height: 12vh!important;
+        width: auto!important;
+        max-width: 150 !important;
+        margin-left: 0%!important;
     }
 /*
 .navbar-nav-div-li.nav-link::before {
