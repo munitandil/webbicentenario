@@ -166,7 +166,7 @@ export default {
 .text_1_bicen {
     text-align: justify;
     font-family: helvetica;
-    font-size: 21px;
+    font-size: 18px;
     line-height: normal;
     letter-spacing: 0.3px;
 }
@@ -174,7 +174,7 @@ export default {
 .text_1 {
     text-align: justify;
     font-family: helvetica;
-    font-size: 21px;
+    font-size: 18px;
     line-height: normal;
     letter-spacing: 0.3px;
     
@@ -185,7 +185,7 @@ export default {
     text-transform:uppercase;
     font-family:Helvetica;
     font-weight:bold;
-    font-size: 25pt;
+    font-size: 24pt;
 }
 .titu2 {
     color:	#1a428b!important;
@@ -193,7 +193,7 @@ export default {
     text-transform:uppercase;
     font-family:Helvetica;
     font-weight:bold;
-    font-size: 25pt;
+    font-size: 24pt;
 }
 .video-container {
    /* position: relative;*/

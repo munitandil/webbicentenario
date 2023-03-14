@@ -29,7 +29,7 @@
   <!--  <div class="blog_content bg-white "> -->
     <div class="blog_content  bg-white ">
       <div class="blog_text">
-        <h6 class="blog_title">
+        <div class="blog_title">
           <DSILink
             pCustomLabel=" "
             :pCustomLink="'/novedades/' + pId"
@@ -38,7 +38,7 @@
           >
             {{ pTitulo }}
           </DSILink>
-        </h6>
+        </div>
         <p>
           {{ pBajada }}
         </p>

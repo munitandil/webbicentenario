@@ -5272,16 +5272,18 @@ header.light_skin.nav-fixed .social_icons li a:hover {
     margin-right: 2px;
 }
 .blog_text_act2  {
-    font-size: 23px;
+    font-size: 21px;
     margin-bottom: 5px;
     margin-left:10px;
     margin-right: 10px;
     color:#FFF;
+    text-transform: uppercase;
 }
 .blog_text_act3  {
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 5px;
     color:#FFF;
+    text-transform: none;
 }
 
 .blog_text p {
@@ -5497,6 +5499,10 @@ header.light_skin.nav-fixed .social_icons li a:hover {
 
 .blog_title * {
     font-weight: 600;
+    font-size: 21px !important;
+    margin-bottom: 5px;
+    margin-left:10px;
+    margin-right: 10px;
 }
 .blog_titleAc * {
     font-weight: 600;

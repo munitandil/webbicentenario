@@ -1,0 +1,14 @@
+select   fecha1, decode(sign(trunc(p.fecha1)-trunc(sysdate)),-1,trunc(fecha1)-trunc(sysdate),1) orden,
+trunc(p.fecha1) -trunc(sysdate) dias  , sign(trunc(p.fecha1) -trunc(sysdate)),  trunc(p.fecha1)  
+
+from prueba_fecha p
+ order by orden desc,p.fecha1 asc
+
+
+api nueva  ///  probar antes bien
+select distinct id_evento id,  extract(day from fecha_desde)  dia,SUBSTR(to_char(fecha_desde,'MONTH'),1,3) Mes,fecha_desde,titulo,trim(SUBSTR( descripcion,1,140)) bajada, folleto imagen ,
+decode(sign(trunc(fecha_desde)-trunc(sysdate)),-1,trunc(fecha_desde)-trunc(sysdate),1) orden, fecha_desde fechad
+from EVENTOS_all_BIC    
+ where id_dominio=1  ---order by fecha_desde
+ order by orden desc, trunc(fechad)
+
